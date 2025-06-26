@@ -68,7 +68,7 @@ To start the Flask server, run the following command:
 python run.py
 ```
 
-The application will be available at `http://0.0.0.0:5000`.
+The application will be available at `http://localhost:5000`.
 
 ## API Endpoints
 
