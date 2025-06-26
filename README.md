@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/surajssc1232/indian_banks_api.git
-   cd your-repo-name
+   cd indian_banks_api 
    ```
 
 2. **Create and activate a virtual environment:**
